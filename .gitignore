@@ -1,0 +1,11 @@
+# Ignore Matlab temporary files.
+*.asv
+
+# Ignore data files.
+*.mat
+
+# Ignore images.
+*.fig
+*.png
+*.jpg
+*.jpeg
